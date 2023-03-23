@@ -1,5 +1,5 @@
 
-The Myers-Briggs Type Indicator (MBTI®) is an instrument published by CPP, Inc. designed to
+The Myers-Briggs Type Indicator (MBTI) is an instrument published by CPP, Inc. designed to
 determine a respondent’s preferences in how they see the world and make decisions, based on
 four pairings stemming from Carl Jung’s theory of psychological types.
 
