@@ -1,6 +1,6 @@
 Task 6-Implement a sample Machine Learning program using a problem statement of your choice.
 
-Project:Myers-Briggs Personality Prediction
+Project:Myers-Briggs Personality Prediction using Machine Learning.
 
 Introduction:
 The Myers-Briggs Type Indicator (MBTI) is an instrument published by CPP, Inc. designed to
